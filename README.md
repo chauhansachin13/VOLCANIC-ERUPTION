@@ -1,7 +1,3 @@
-Certainly! Here’s a comprehensive and detailed `README.md` for your project, covering every aspect thoroughly.
-
----
-
 # Volcanic Eruption Simulation
 
 ## Overview
@@ -223,4 +219,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to modify or expand upon this `README.md` to better suit the specifics of your project and its requirements!
