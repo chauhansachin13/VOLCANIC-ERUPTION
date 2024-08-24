@@ -171,6 +171,8 @@ line(293, 165, 273, 188);
 2. **Run the Program**:
    - After successful compilation, run the program.
    - The simulation window will open, displaying the volcanic eruption animation.
+   - 
+   ![image alt](https://github.com/chauhansachin13/VOLCANIC-ERUPTION-PROJECT/blob/main/OUTPUT.png?raw=true)
 
 ## Common Issues and Troubleshooting
 
